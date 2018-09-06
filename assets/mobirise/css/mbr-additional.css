@@ -1417,6 +1417,17 @@ body {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
   transition: box-shadow 0.3s;
 }
+.cid-r2TfQLiIqP {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #efefef;
+}
+.cid-r2TfQLiIqP .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-r2TfQLiIqP .btn {
+  margin: 0 0 .5rem 0;
+}
 .cid-r2GwsHG6v8 {
   padding-top: 75px;
   padding-bottom: 90px;
@@ -1475,40 +1486,6 @@ body {
 @media (max-width: 300px) {
   .cid-r2GwsHG6v8 .card-img span {
     font-size: 40px !important;
-  }
-}
-.cid-r2GAmLH5cS {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #fafafa;
-}
-.cid-r2GAmLH5cS h3 {
-  text-align: center;
-  font-weight: 300;
-}
-.cid-r2GAmLH5cS .wrap {
-  width: 150px;
-  height: 150px;
-  margin: 0 auto;
-}
-.cid-r2GAmLH5cS .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-r2GAmLH5cS .card {
-  -webkit-flex-basis: 100%;
-  flex-basis: 100%;
-  word-wrap: break-word;
-}
-.cid-r2GAmLH5cS ellipse {
-  stroke: rgba(206, 206, 206, 0.4);
-}
-.cid-r2GAmLH5cS path {
-  stroke: #149dcc;
-}
-@media (max-width: 991px) and (min-width: 768px) {
-  .cid-r2GAmLH5cS .card {
-    -webkit-flex-basis: 33%;
-    flex-basis: 33%;
   }
 }
 .cid-qTkAaeaxX5 {
@@ -1582,6 +1559,17 @@ body {
   padding-top: 60px;
   padding-bottom: 60px;
   background-image: url("../../../assets/images/jumbotron.jpg");
+}
+.cid-r2Td58vJr0 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-r2Td58vJr0 .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-r2Td58vJr0 .btn {
+  margin: 0 0 .5rem 0;
 }
 .cid-r2SO3DOtXF {
   padding-top: 90px;
