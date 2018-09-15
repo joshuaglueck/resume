@@ -1560,19 +1560,8 @@ body {
   padding-bottom: 60px;
   background-image: url("../../../assets/images/jumbotron.jpg");
 }
-.cid-r2Td58vJr0 {
-  padding-top: 90px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
-}
-.cid-r2Td58vJr0 .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-r2Td58vJr0 .btn {
-  margin: 0 0 .5rem 0;
-}
 .cid-r2ThCGfXAi {
-  padding-top: 45px;
+  padding-top: 60px;
   padding-bottom: 30px;
   background-color: #ffffff;
 }
@@ -1615,14 +1604,25 @@ body {
 .cid-r2ThFYHzuF .btn {
   margin: 0 0 .5rem 0;
 }
-.cid-r2ThH63mYV {
-  padding-top: 45px;
-  padding-bottom: 90px;
+.cid-r2Td58vJr0 {
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
-.cid-r2ThH63mYV .mbr-section-subtitle {
+.cid-r2Td58vJr0 .mbr-section-subtitle {
   color: #767676;
 }
-.cid-r2ThH63mYV .btn {
+.cid-r2Td58vJr0 .btn {
+  margin: 0 0 .5rem 0;
+}
+.cid-r3DL7ph5dE {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-r3DL7ph5dE .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-r3DL7ph5dE .btn {
   margin: 0 0 .5rem 0;
 }
